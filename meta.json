@@ -1,7 +1,15 @@
 {
   "schemaVersion": 1,
   "hotfixesFormat": null,
-  "versions": [
- 
-  ]
+"versions": [
+    {
+        "id": "1.0.1",
+        "releasedAt": 1742398303817,
+        "promotions": {
+            "downloads": {
+                "generic": "https://cdn.discordapp.com/attachments/1021718330551324702/1351940808680411176/shibro_1.0.1.mrpack?ex=67dc347e&is=67dae2fe&hm=b489ba8abbd305a5c360cdf29584b09d7b1b005a26dd7e3935d04be8be866bfd&"
+            }
+        }
+    }
+]
 }
